@@ -1,10 +1,10 @@
 # Réquiem
-Información general:
+### Información general:
 |Etapas|Altura|Anchura|Motores|SAS|RCS|Coef. Aero.|Desarrollo|
 |------|------|-------|-------|---|---|-----------|----------|
 |1|7|1|1|SdC|:x:|85|12%|
 
-## Información adicional:
+### Información adicional:
 - [ ] Completar sistema de electrónica [#1](https://github.com/EzeGamer135/ucc_aerospace/issues/1)
     
 - [ ] Diseñar procesador principal y actitud en vuelo [#2](https://github.com/EzeGamer135/ucc_aerospace/issues/2)
