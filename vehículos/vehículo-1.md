@@ -1,8 +1,8 @@
 # Cóndor
 ### Información general:
-|Etapas|Altura|Anchura|Motores|SAS|RCS|Coef. Aero.|Desarrollo|
-|------|------|-------|-------|---|---|-----------|----------|
-|1|6|1|1|SdC|:x:|∼85|∼12%|
+|Etapas|Altura|Anchura|Motores|SAS|RCS|Desarrollo|
+|------|------|-------|-------|---|---|----------|
+|1|6|1|1|SdC|:x:|∼12%|
 
 ### Información adicional:
 |Flujo|Descripción|Estado|Fecha de completitud prevista|
