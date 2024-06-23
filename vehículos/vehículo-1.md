@@ -14,7 +14,7 @@
 <br>
 Fecha de lanzamiento prevista: Marzo 2025
 <br>
-Objetivo: Fines meteorológicos y científicos.
+Resumen: Cohete de sondeo con fines meteorológicos y científicos.
 <br>
 
 Enlace al [proyecto.](https://github.com/users/EzeGamer135/projects/5)
