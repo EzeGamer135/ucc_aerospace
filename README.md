@@ -9,3 +9,6 @@ Estos son algunos de nuestros objetivos para 2024:
 
 > [!TIP]
 > "NET" significa "Not Earlier Than", es decir "No Antes De"
+
+### Entregas:
+- [Cóndor Flight Processor](https://github.com/EzeGamer135/ucc_aerospace/releases/tag/CFP_v1.0.0)
